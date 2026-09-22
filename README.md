@@ -123,66 +123,9 @@ Most client work ships under someone else's name and stays private. These are th
 <img src="https://play-lh.googleusercontent.com/ZXwsvUJFA7AJNg-sfzDv-O_hxaoDd8NjKU29IVDZSPxG4b8eOSGonm8XNRfyXGZDuRzxvQEU4f6xMQ4twcoqLQ=s128" width="64" height="64" style="border-radius:14px" alt="Cleansai app icon" />
 <br><strong>Cleansai</strong>
 <br>AI-powered duplicate detection and storage cleanup, entirely on-device.
-<br><sub>RN, on-device ML</sub> · <sub>Product, architecture, build</sub>
-<br><a href="https://play.google.com/store/apps/details?id=com.digitarchs.cleansai" target="_blank" rel="noopener noreferrer">Play Store</a> · <a href="https://cleansai.digitarchs.com/" target="_blank" rel="noopener noreferrer">Website</a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.digitarchs.cleansai" target="_blank" rel="noopener noreferrer"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></a>&nbsp;&nbsp;<a href="https://cleansai.digitarchs.com/" target="_blank" rel="noopener noreferrer"><img width="28" height="28" title="Website" src="https://raw.githubusercontent.com/ramzanbilal/ramzanbilal/main/assets/icons/globe-black.svg" /></a>
 </td>
-<td width="50%" valign="top">
-<br><strong>SocialTap</strong>
-<br>Media downloader across 8 platforms, with background downloads that survive app close, an encrypted local vault, and no accounts.
-<br><sub>RN, React Navigation 7, Zustand, MMKV, RevenueCat</sub> · <sub>Architecture, build, release</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br><strong>Dastaan</strong>
-<br>Public-domain audiobook player streaming from Archive.org, offline-first.
-<br><sub>Expo bare, Supabase, MMKV</sub> · <sub>Product, architecture, build</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Store</a>
-</td>
-<td width="50%" valign="top">
-<br><strong>Hometown Connect</strong>
-<br>Community platform, fully native iOS.
-<br><sub>Swift, SwiftUI</sub> · <sub>Lead iOS</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br><strong>Be Well Be Healthy</strong>
-<br>Healthcare companion app.
-<br><sub>RN, Firebase</sub> · <sub>Build, release</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Store</a>
-</td>
-<td width="50%" valign="top">
-<br><strong>HabitOS</strong>
-<br>Habit tracker; I also designed the icon.
-<br><sub>RN, Supabase</sub> · <sub>Product, build, brand</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br><strong>MyHayd</strong>
-<br><!-- TODO: one line on what it does and for whom -->
-<br><sub>RN CLI, Firebase</sub> · <sub>Build, release</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Store</a>
-</td>
-<td width="50%" valign="top">
-<br><strong>mmotion</strong>
-<br><!-- TODO: one line on what it does and for whom -->
-<br><sub>RN CLI, Firebase</sub> · <sub>Build, release</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br><strong>ClinicVoice</strong>
-<br>Multilingual voice agent handling Urdu/English code-switching for clinics.
-<br><sub>FastAPI, Pipecat, Deepgram, Supabase, Next.js</sub> · <sub>Architecture, backend</sub>
-<br><a href="https://YOUR_LINK" target="_blank" rel="noopener noreferrer">Repo</a>
-</td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
