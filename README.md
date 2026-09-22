@@ -4,67 +4,89 @@
 -->
 
 <h1 align="center">Bilal · Mobile App Architect</h1>
-<p align="center"><strong>Senior React Native, Expo, Flutter and SwiftUI developer · 8 years · 100+ apps on the App Store and Google Play</strong></p>
+<p align="center">
+  <strong style="font-size:1.1em">Senior <span style="color:#38BDF8">React Native</span> | <span style="color:#38BDF8">Expo</span> | <span style="color:#38BDF8">Flutter</span> | <span style="color:#38BDF8">SwiftUI</span> developer</strong>
+  <br>
+  8 years · 100+ apps on the App Store and Google Play
+</p>
 
 <img src="./assets/banner.svg" width="100%" alt="Bilal, mobile app architect: web to mobile app conversion, AI and vibe-coded app rescue, App Store and Google Play rejection fixes" />
 
----
-
 ## Tech stack
 
-### Languages
+<p>
+<img width="48" height="48" title="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+<img width="48" height="48" title="JavaScript" src="https://skillicons.dev/icons?i=js"/>
+<img width="48" height="48" title="Dart" src="https://skillicons.dev/icons?i=dart"/>
+<img width="48" height="48" title="Swift" src="https://skillicons.dev/icons?i=swift"/>
+<img width="48" height="48" title="Kotlin" src="https://skillicons.dev/icons?i=kotlin"/>
+<img width="48" height="48" title="HTML" src="https://skillicons.dev/icons?i=html"/>
+<img width="48" height="48" title="CSS" src="https://skillicons.dev/icons?i=css"/>
+<img width="48" height="48" title="React" src="https://skillicons.dev/icons?i=react"/>
+<img width="48" height="48" title="Flutter" src="https://skillicons.dev/icons?i=flutter"/>
+<img width="48" height="48" title="Next.js" src="https://skillicons.dev/icons?i=nextjs"/>
+<img width="48" height="48" title="Vite" src="https://skillicons.dev/icons?i=vite"/>
+<img width="48" height="48" title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ionic/ffffff"><img width="48" height="48" title="Ionic" src="https://cdn.simpleicons.org/ionic/000000"/></picture>
+<img width="48" height="48" title="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
+<img width="48" height="48" title="Express" src="https://skillicons.dev/icons?i=express"/>
+<img width="48" height="48" title="Supabase" src="https://skillicons.dev/icons?i=supabase"/>
+<img width="48" height="48" title="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
+<img width="48" height="48" title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
+<img width="48" height="48" title="FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>
+<img width="48" height="48" title="Git" src="https://skillicons.dev/icons?i=git"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img width="48" height="48" title="GitHub" src="https://skillicons.dev/icons?i=github"/></picture>
+<img width="48" height="48" title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions"/>
+<img width="48" height="48" title="Figma" src="https://skillicons.dev/icons?i=figma"/>
+<img width="48" height="48" title="Notion" src="https://skillicons.dev/icons?i=notion"/>
+<img width="48" height="48" title="VS Code" src="https://skillicons.dev/icons?i=vscode"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/xcode/ffffff"><img width="48" height="48" title="Xcode" src="https://cdn.simpleicons.org/xcode/000000"/></picture>
+<img width="48" height="48" title="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"/>
+</p>
 
-<table>
-<tr>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/><br><sub><b>TypeScript</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=dart" alt="Dart"/><br><sub><b>Dart</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=swift" alt="Swift"/><br><sub><b>Swift</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/><br><sub><b>Kotlin</b></sub></td>
-</tr>
-</table>
+<sub>Also: React Native (Expo managed and bare, RN CLI), Expo Router, React Navigation, SwiftUI, Zustand, TanStack Query, Reanimated, MMKV, Riverpod, Bloc, RevenueCat, StoreKit 2, Play Billing, Twilio, Qdrant, EAS Build and Submit, Fastlane, TestFlight, Play Console, Codemagic, Maestro E2E, Sentry.</sub>
 
-### Frameworks and libraries
+## Connect with me
 
-<table>
-<tr>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=react" alt="React"/><br><sub><b>React</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/><br><sub><b>Flutter</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br><sub><b>Next.js</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br><sub><b>Tailwind</b></sub></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramzanbilal/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="><img width="32" height="32" src="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"/></picture></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"/></picture></a>&nbsp;&nbsp;
+  <a href="https://YOUR_PORTFOLIO_LINK" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPgo="><img width="32" height="32" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPgo=" alt="Portfolio"/></picture></a>&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/bilalramzan6?viewMode=1" title="Upwork"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/upwork/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/upwork/000000" alt="Upwork"/></picture></a>&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/users/bilalramzan14/" title="Fiverr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fiverr/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/fiverr/000000" alt="Fiverr"/></picture></a>
+</p>
 
-Also working with: React Native (Expo managed and bare, RN CLI), Expo Router, React Navigation, SwiftUI, Zustand, TanStack Query, Reanimated, MMKV, Riverpod, Bloc.
+## GitHub activity
 
-### Backend, data and cloud
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramzanBilal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&icon_color=FBBF24&text_color=CBD5E1&ring_color=FBBF24" alt="GitHub stats for Bilal: commits, PRs, issues, contributions" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzanBilal&layout=compact&langs_count=8&hide=objective-c,objective-c%2B%2B,ruby,java,html,css,shell,starlark,cmake,c&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages: TypeScript, Dart, Swift, JavaScript" />
+</p>
 
-<table>
-<tr>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=express" alt="Express"/><br><sub><b>Express</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br><sub><b>Supabase</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
-</tr>
-</table>
+<p align="center">
+  <img height="220" src="https://streak-stats.demolab.com?user=ramzanBilal&hide_border=true&border_radius=8&background=0B1220&ring=FBBF24&fire=FBBF24&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak" />
+</p>
 
-Also working with: RevenueCat, StoreKit 2, Play Billing, Twilio, Qdrant.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzanBilal&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FBBF24&area=true&area_color=1E3A5F&hide_border=true&radius=8" width="100%" alt="Contribution activity graph, last 31 days" />
+</p>
 
-### Tools and delivery
+<!-- Optional snake. See LAUNCH-GUIDE.md §3.6
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramzanBilal/ramzanBilal/output/github-snake-dark.svg" alt="contribution snake" />
+</p>
+-->
 
-<table>
-<tr>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=git" alt="Git"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/><br><sub><b>GH Actions</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br><sub><b>Figma</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
-<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
-</tr>
-</table>
+## Publications
 
-Also working with: EAS Build and Submit, Fastlane, TestFlight, Play Console, Codemagic, Maestro E2E, Sentry.
+<p align="center">
+  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" title="Medium"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/medium/000000" alt="Medium"/></picture></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/YOUR_SO_ID/YOUR_SO_USERNAME" title="Stack Overflow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/stackoverflow/000000" alt="Stack Overflow"/></picture></a>
+</p>
+
+<p align="center">
+  <a href="./assets/resume.pdf"><img src="https://img.shields.io/badge/-Download%20Resume-000000?style=for-the-badge" alt="Download Resume" /></a>
+</p>
 
 ## Portfolio: shipped mobile apps
 
@@ -81,45 +103,7 @@ Most client work ships under someone else's name and stays private. These are th
 | **mmotion**            | <!-- TODO: one line on what it does and for whom -->                                                                             | RN CLI, Firebase                                  | Build, release               | [Store](https://YOUR_LINK) |
 | **ClinicVoice**        | Multilingual voice agent handling Urdu/English code-switching for clinics                                                        | FastAPI, Pipecat, Deepgram, Supabase, Next.js     | Architecture, backend        | [Repo](https://YOUR_LINK)  |
 
-<details>
-<summary><strong>Open source and reference repos</strong></summary>
-<br>
-
-| Repo                                                                                                               | What it's for                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`react-native-architecture-template`](https://github.com/ramzanBilal/react-native-architecture-template) | Opinionated Expo + TypeScript baseline: folder layout, typed API layer, auth, theming, testing, CI, EAS release. What I start real projects from. |
-| [`web-to-mobile-app-checklist`](https://github.com/ramzanBilal/web-to-mobile-app-checklist)               | The audit I run before porting a web product: API readiness, auth, offline, navigation mapping, store requirements.                               |
-| [`app-store-rejection-playbook`](https://github.com/ramzanBilal/app-store-rejection-playbook)             | Common App Store and Play rejections, root causes, fixes, and Resolution Center reply templates.                                                  |
-| [`YOUR_NPM_PACKAGE`](https://github.com/ramzanBilal/YOUR_REPO)                                            | [![npm](https://img.shields.io/npm/v/YOUR_NPM_PACKAGE?style=flat-square&color=38BDF8)](https://www.npmjs.com/package/YOUR_NPM_PACKAGE)            |
-
-</details>
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramzanBilal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&icon_color=FBBF24&text_color=CBD5E1&ring_color=FBBF24" alt="GitHub stats for Bilal: commits, PRs, issues, contributions" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzanBilal&layout=compact&langs_count=8&hide=objective-c,objective-c%2B%2B,ruby,java,html,css,shell,starlark,cmake,c&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages: TypeScript, Dart, Swift, JavaScript" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=ramzanBilal&hide_border=true&border_radius=8&background=0B1220&ring=FBBF24&fire=FBBF24&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzanBilal&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FBBF24&area=true&area_color=1E3A5F&hide_border=true&radius=8" width="100%" alt="Contribution activity graph, last 31 days" />
-</p>
-
-<!-- Optional snake. See LAUNCH-GUIDE.md §3.6
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ramzanBilal/ramzanBilal/output/github-snake-dark.svg" alt="contribution snake" />
-</p>
--->
-
 ## What I do
-
-I'm a mobile app architect working in React Native, Expo, Flutter and SwiftUI. Eight years, 100+ apps live on the App Store and Google Play, built for founders and small teams who need the app to still be maintainable in year two.
-
-Three kinds of work make up most of what I'm hired for. Click to expand.
 
 <details>
 <summary><strong>1. Web to mobile: turning a web product into a real iOS and Android app</strong></summary>
@@ -167,22 +151,3 @@ Rejections are usually one of a small set of causes, and most of them are fixabl
 The work is: read the actual rejection text and the referenced guideline, reproduce what the reviewer saw, fix the cause rather than the symptom, then write a reply in Resolution Center that tells them precisely what changed and where to find it. Most of the value is in that last part. A clear reply resolves more rejections than another build does.
 
 </details>
-
-## How I work
-
-- **The architecture is written before the first screen.** Every repo I own has `docs/adr/`. If a decision needs more than fifteen lines to justify, it isn't a decision yet. It's a preference.
-- **Expo managed until it says no.** Then a config plugin or bare workflow, not a rewrite. Ejecting on day one means owning two build systems for no reason.
-- **Native code lives behind a typed boundary.** Swift and Kotlin sit behind a module interface. The JS layer doesn't branch on platform unless the _product_ genuinely differs.
-- **Release is a pipeline, not a person.** If shipping depends on someone's laptop, it isn't finished. Signed in CI, tagged, changelog attached.
-- **AI writes code inside an architecture, never instead of one.** I use Claude Code heavily, against a written spec, with tests. Reversing that order is what produces most of the codebases I get hired to fix.
-- **RLS before features.** On Supabase, row-level security is designed with the schema, not added after someone notices.
-- **Audits come in writing.** Findings, severity, effort, and what I'd do first, all before any code changes.
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramzanbilal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
-  <a href="https://www.upwork.com/freelancers/bilalramzan6?viewMode=1"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-  <a href="https://www.fiverr.com/users/bilalramzan14/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
-  <a href="mailto:ramzanbilal14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
