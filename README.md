@@ -40,35 +40,60 @@
 <img width="48" height="48" title="Figma" src="https://skillicons.dev/icons?i=figma"/>
 <img width="48" height="48" title="Notion" src="https://skillicons.dev/icons?i=notion"/>
 <img width="48" height="48" title="VS Code" src="https://skillicons.dev/icons?i=vscode"/>
+<img width="48" height="48" title="Postman" src="https://skillicons.dev/icons?i=postman"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff"><img width="48" height="48" title="Swagger" src="https://cdn.simpleicons.org/swagger/000000"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/xcode/ffffff"><img width="48" height="48" title="Xcode" src="https://cdn.simpleicons.org/xcode/000000"/></picture>
 <img width="48" height="48" title="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stripe/ffffff"><img width="48" height="48" title="Stripe" src="https://cdn.simpleicons.org/stripe/000000"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/paypal/ffffff"><img width="48" height="48" title="PayPal" src="https://cdn.simpleicons.org/paypal/000000"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlepay/ffffff"><img width="48" height="48" title="Google Pay" src="https://cdn.simpleicons.org/googlepay/000000"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/applepay/ffffff"><img width="48" height="48" title="Apple Pay" src="https://cdn.simpleicons.org/applepay/000000"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/google/ffffff"><img width="48" height="48" title="Sign in with Google" src="https://cdn.simpleicons.org/google/000000"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img width="48" height="48" title="Sign in with Apple" src="https://cdn.simpleicons.org/apple/000000"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/facebook/ffffff"><img width="48" height="48" title="Facebook Ads" src="https://cdn.simpleicons.org/facebook/000000"/></picture>
 </p>
 
-<sub>Also: React Native (Expo managed and bare, RN CLI), Expo Router, React Navigation, SwiftUI, Zustand, TanStack Query, Reanimated, MMKV, Riverpod, Bloc, RevenueCat, StoreKit 2, Play Billing, Twilio, Qdrant, EAS Build and Submit, Fastlane, TestFlight, Play Console, Codemagic, Maestro E2E, Sentry.</sub>
+**Also working with**
+
+<p>
+<img src="https://img.shields.io/badge/-Google%20AdMob-1e293b?style=flat-square" alt="Google AdMob" />
+<img src="https://img.shields.io/badge/-Apple%20Search%20Ads-1e293b?style=flat-square" alt="Apple Search Ads" />
+<img src="https://img.shields.io/badge/-In--App%20Purchase-1e293b?style=flat-square" alt="In-App Purchase" />
+<img src="https://img.shields.io/badge/-React%20Native-1e293b?style=flat-square" alt="React Native" />
+<img src="https://img.shields.io/badge/-Expo%20Router-1e293b?style=flat-square" alt="Expo Router" />
+<img src="https://img.shields.io/badge/-React%20Navigation-1e293b?style=flat-square" alt="React Navigation" />
+<img src="https://img.shields.io/badge/-SwiftUI-1e293b?style=flat-square" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/-Zustand-1e293b?style=flat-square" alt="Zustand" />
+<img src="https://img.shields.io/badge/-TanStack%20Query-1e293b?style=flat-square" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/-Reanimated-1e293b?style=flat-square" alt="Reanimated" />
+<img src="https://img.shields.io/badge/-MMKV-1e293b?style=flat-square" alt="MMKV" />
+<img src="https://img.shields.io/badge/-Riverpod-1e293b?style=flat-square" alt="Riverpod" />
+<img src="https://img.shields.io/badge/-Bloc-1e293b?style=flat-square" alt="Bloc" />
+<img src="https://img.shields.io/badge/-RevenueCat-1e293b?style=flat-square" alt="RevenueCat" />
+<img src="https://img.shields.io/badge/-StoreKit%202-1e293b?style=flat-square" alt="StoreKit 2" />
+<img src="https://img.shields.io/badge/-Play%20Billing-1e293b?style=flat-square" alt="Play Billing" />
+<img src="https://img.shields.io/badge/-Twilio-1e293b?style=flat-square" alt="Twilio" />
+<img src="https://img.shields.io/badge/-EAS%20Build%20and%20Submit-1e293b?style=flat-square" alt="EAS Build and Submit" />
+<img src="https://img.shields.io/badge/-Fastlane-1e293b?style=flat-square" alt="Fastlane" />
+<img src="https://img.shields.io/badge/-TestFlight-1e293b?style=flat-square" alt="TestFlight" />
+<img src="https://img.shields.io/badge/-Play%20Console-1e293b?style=flat-square" alt="Play Console" />
+<img src="https://img.shields.io/badge/-Sentry-1e293b?style=flat-square" alt="Sentry" />
+</p>
 
 ## Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramzanbilal/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="><img width="32" height="32" src="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"/></picture></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"/></picture></a>&nbsp;&nbsp;
-  <a href="https://YOUR_PORTFOLIO_LINK" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPgo="><img width="32" height="32" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPgo=" alt="Portfolio"/></picture></a>&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/bilalramzan6?viewMode=1" title="Upwork"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/upwork/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/upwork/000000" alt="Upwork"/></picture></a>&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/users/bilalramzan14/" title="Fiverr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fiverr/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/fiverr/000000" alt="Fiverr"/></picture></a>
+  <a href="https://www.linkedin.com/in/ramzanbilal/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="><img width="32" height="32" src="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"/></picture></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mobileapparchitect" title="Instagram" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"/></picture></a>&nbsp;&nbsp;
+  <a href="https://bilal.devhustles.com" title="Portfolio" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPgo="><img width="32" height="32" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPgo=" alt="Portfolio"/></picture></a>&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/bilalramzan6?viewMode=1" title="Upwork" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/upwork/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/upwork/000000" alt="Upwork"/></picture></a>&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/users/bilalramzan14/" title="Fiverr" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fiverr/ffffff"><img width="32" height="32" src="https://cdn.simpleicons.org/fiverr/000000" alt="Fiverr"/></picture></a>
 </p>
 
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramzanBilal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&icon_color=FBBF24&text_color=CBD5E1&ring_color=FBBF24" alt="GitHub stats for Bilal: commits, PRs, issues, contributions" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzanBilal&layout=compact&langs_count=8&hide=objective-c,objective-c%2B%2B,ruby,java,html,css,shell,starlark,cmake,c&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages: TypeScript, Dart, Swift, JavaScript" />
-</p>
-
-<p align="center">
-  <img height="220" src="https://streak-stats.demolab.com?user=ramzanBilal&hide_border=true&border_radius=8&background=0B1220&ring=FBBF24&fire=FBBF24&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzanBilal&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FBBF24&area=true&area_color=1E3A5F&hide_border=true&radius=8" width="100%" alt="Contribution activity graph, last 31 days" />
+  <img height="300" src="https://streak-stats.demolab.com?user=ramzanBilal&hide_border=true&border_radius=8&background=0B1220&ring=FBBF24&fire=FBBF24&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak" />
 </p>
 
 <!-- Optional snake. See LAUNCH-GUIDE.md §3.6
@@ -80,12 +105,12 @@
 ## Publications
 
 <p align="center">
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" title="Medium"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/medium/000000" alt="Medium"/></picture></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/YOUR_SO_ID/YOUR_SO_USERNAME" title="Stack Overflow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/stackoverflow/000000" alt="Stack Overflow"/></picture></a>
+  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" title="Medium" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/medium/000000" alt="Medium"/></picture></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/YOUR_SO_ID/YOUR_SO_USERNAME" title="Stack Overflow" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/stackoverflow/000000" alt="Stack Overflow"/></picture></a>
 </p>
 
 <p align="center">
-  <a href="./assets/resume.pdf"><img src="https://img.shields.io/badge/-Download%20Resume-000000?style=for-the-badge" alt="Download Resume" /></a>
+  <a href="./assets/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Download%20Resume-000000?style=for-the-badge" alt="Download Resume" /></a>
 </p>
 
 ## Portfolio: shipped mobile apps
