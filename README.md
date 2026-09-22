@@ -121,10 +121,7 @@ Most client work ships under someone else's name and stays private. These are th
 <tr>
 <td width="50%" valign="top" align="left">
 
-<table><tr>
-<td valign="middle"><img src="https://play-lh.googleusercontent.com/ZXwsvUJFA7AJNg-sfzDv-O_hxaoDd8NjKU29IVDZSPxG4b8eOSGonm8XNRfyXGZDuRzxvQEU4f6xMQ4twcoqLQ=s128" width="96" height="96" style="border-radius:20px" alt="Cleansai app icon" /></td>
-<td valign="middle">&nbsp;&nbsp;<strong style="font-size:1.4em">Cleansai</strong></td>
-</tr></table>
+<img src="https://play-lh.googleusercontent.com/ZXwsvUJFA7AJNg-sfzDv-O_hxaoDd8NjKU29IVDZSPxG4b8eOSGonm8XNRfyXGZDuRzxvQEU4f6xMQ4twcoqLQ=s128" width="96" height="96" style="border-radius:20px; vertical-align:middle" alt="Cleansai app icon" />&nbsp;&nbsp;<strong style="font-size:1.4em; vertical-align:middle">Cleansai</strong>
 
 AI-powered duplicate detection and storage cleanup, entirely on-device.
 
@@ -133,10 +130,7 @@ AI-powered duplicate detection and storage cleanup, entirely on-device.
 </td>
 <td width="50%" valign="top" align="left">
 
-<table><tr>
-<td valign="middle"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/a1/9c/3ca19ce7-6301-ed60-7cd6-71cc96e12dce/Placeholder.mill/512x512bb.jpg" width="96" height="96" style="border-radius:20px" alt="Broski AI Wingman app icon" /></td>
-<td valign="middle">&nbsp;&nbsp;<strong style="font-size:1.4em">Broski: AI Wingman</strong></td>
-</tr></table>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/a1/9c/3ca19ce7-6301-ed60-7cd6-71cc96e12dce/Placeholder.mill/512x512bb.jpg" width="96" height="96" style="border-radius:20px; vertical-align:middle" alt="Broski AI Wingman app icon" />&nbsp;&nbsp;<strong style="font-size:1.4em; vertical-align:middle">Broski: AI Wingman</strong>
 
 AI-powered conversation coach. Never get left on read again.
 
