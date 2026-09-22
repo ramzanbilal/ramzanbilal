@@ -6,32 +6,65 @@
 <h1 align="center">Bilal · Mobile App Architect</h1>
 <p align="center"><strong>Senior React Native, Expo, Flutter and SwiftUI developer · 8 years · 100+ apps on the App Store and Google Play</strong></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,flutter,dart,swift,kotlin,nodejs,express,supabase,firebase,postgres,figma&perline=12" alt="Tech stack icons: React, TypeScript, Flutter, Dart, Swift, Kotlin, Node.js, Express, Supabase, Firebase, PostgreSQL, Figma" />
-</p>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/bilalramzan6?viewMode=1"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" /></a>
-  <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" /></a>
-</p>
-
 <img src="./assets/banner.svg" width="100%" alt="Bilal, mobile app architect: web to mobile app conversion, AI and vibe-coded app rescue, App Store and Google Play rejection fixes" />
 
 ---
 
 ## Tech stack
 
-What I'd reach for on a build this quarter, and what I've shipped to production with.
+### Languages
 
-| Layer              | Daily drivers                                                                                                                    | Also shipped                                             |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| **Cross-platform** | React Native (Expo managed + bare, RN CLI), TypeScript, Expo Router, React Navigation, Zustand, TanStack Query, Reanimated, MMKV | Flutter (Riverpod, Bloc), Ionic + Capacitor              |
-| **Native**          | Swift, SwiftUI, Expo Modules / Turbo Modules                                                                                     | Kotlin bridging, WidgetKit                                |
-| **Web**             | React, Vite, Next.js, Tailwind                                                                                                   | Landing pages and admin panels shipped alongside apps     |
-| **Backend & data**  | Supabase (Postgres, RLS, Edge Functions, Realtime), Firebase (Auth, Firestore, FCM, Crashlytics), Node.js / Express              | FastAPI, Twilio, Qdrant                                   |
-| **Payments**        | RevenueCat, StoreKit 2, Play Billing                                                                                             | Stripe for web checkout, AdMob                            |
-| **Delivery**        | GitHub Actions, EAS Build & Submit, Fastlane, TestFlight, Play Console tracks                                                    | Codemagic, Maestro E2E, Sentry                             |
-| **Practice**        | ADRs, conventional commits, short-lived branches, Claude Code against a written spec                                            | Figma to production, ASO assets, store review responses   |
+<table>
+<tr>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=dart" alt="Dart"/><br><sub><b>Dart</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=swift" alt="Swift"/><br><sub><b>Swift</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/><br><sub><b>Kotlin</b></sub></td>
+</tr>
+</table>
+
+### Frameworks and libraries
+
+<table>
+<tr>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=react" alt="React"/><br><sub><b>React</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/><br><sub><b>Flutter</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br><sub><b>Next.js</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br><sub><b>Tailwind</b></sub></td>
+</tr>
+</table>
+
+Also working with: React Native (Expo managed and bare, RN CLI), Expo Router, React Navigation, SwiftUI, Zustand, TanStack Query, Reanimated, MMKV, Riverpod, Bloc.
+
+### Backend, data and cloud
+
+<table>
+<tr>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=express" alt="Express"/><br><sub><b>Express</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br><sub><b>Supabase</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
+</tr>
+</table>
+
+Also working with: RevenueCat, StoreKit 2, Play Billing, Twilio, Qdrant.
+
+### Tools and delivery
+
+<table>
+<tr>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=git" alt="Git"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/><br><sub><b>GH Actions</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br><sub><b>Figma</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="90"><img width="40" height="40" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
+</tr>
+</table>
+
+Also working with: EAS Build and Submit, Fastlane, TestFlight, Play Console, Codemagic, Maestro E2E, Sentry.
 
 ## Portfolio: shipped mobile apps
 
@@ -86,7 +119,7 @@ Most client work ships under someone else's name and stays private. These are th
 
 I'm a mobile app architect working in React Native, Expo, Flutter and SwiftUI. Eight years, 100+ apps live on the App Store and Google Play, built for founders and small teams who need the app to still be maintainable in year two.
 
-Three kinds of work make up most of what I'm hired for — click to expand.
+Three kinds of work make up most of what I'm hired for. Click to expand.
 
 <details>
 <summary><strong>1. Web to mobile: turning a web product into a real iOS and Android app</strong></summary>
@@ -145,18 +178,11 @@ The work is: read the actual rejection text and the referenced guideline, reprod
 - **RLS before features.** On Supabase, row-level security is designed with the schema, not added after someone notices.
 - **Audits come in writing.** Findings, severity, effort, and what I'd do first, all before any code changes.
 
-## Teaching
-
-I've trained 200+ mobile developers, including cohorts under Pakistan's NAVTTC / PM Youth Programme. Mentorship material lives in [`react-native-mentorship-curriculum`](https://github.com/ramzanBilal/react-native-mentorship-curriculum).
-
-## Currently
-
-- Shipping a run of consumer apps to both stores, starting with Dastaan and CleanAI.
-- Rebuilding my architecture baseline around current Expo SDK, Expo Router and Turbo Modules.
-- Writing up the store-rejection playbook from cases I've actually resolved.
-
-**Open to:** web-to-mobile ports · audits and rescue work on AI-generated codebases · rejected builds that need to get approved · greenfield mobile architecture.
+## Connect
 
 <p align="center">
-  <sub><a href="mailto:ramzanbilal14@gmail.com">ramzanbilal14@gmail.com</a></sub>
+  <a href="https://www.linkedin.com/in/ramzanbilal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/bilalramzan6?viewMode=1"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.fiverr.com/users/bilalramzan14/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="mailto:ramzanbilal14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
