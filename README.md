@@ -117,6 +117,10 @@
 
 Most client work ships under someone else's name and stays private. These are the ones I can point at.
 
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
 <img src="https://play-lh.googleusercontent.com/ZXwsvUJFA7AJNg-sfzDv-O_hxaoDd8NjKU29IVDZSPxG4b8eOSGonm8XNRfyXGZDuRzxvQEU4f6xMQ4twcoqLQ=s128" width="72" height="72" style="border-radius:16px" alt="Cleansai app icon" />
 
 **Cleansai**
@@ -124,6 +128,21 @@ Most client work ships under someone else's name and stays private. These are th
 AI-powered duplicate detection and storage cleanup, entirely on-device.
 
 <a href="https://play.google.com/store/apps/details?id=com.digitarchs.cleansai" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleplay/ffffff"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://cleansai.digitarchs.com/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramzanbilal/ramzanbilal/main/assets/icons/globe-white.svg"><img width="28" height="28" title="Website" src="https://raw.githubusercontent.com/ramzanbilal/ramzanbilal/main/assets/icons/globe-black.svg" /></picture></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/a1/9c/3ca19ce7-6301-ed60-7cd6-71cc96e12dce/Placeholder.mill/512x512bb.jpg" width="72" height="72" style="border-radius:16px" alt="Broski AI Wingman app icon" />
+
+**Broski: AI Wingman**
+
+AI-powered conversation coach. Never get left on read again.
+
+<a href="https://apps.apple.com/us/app/broski-ai-wingman/id6754784915" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img width="28" height="28" title="App Store" src="https://cdn.simpleicons.org/apple/000000" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.broski.app" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleplay/ffffff"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></picture></a>
+
+</td>
+</tr>
+</table>
 
 ## What I do
 
