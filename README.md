@@ -117,17 +117,13 @@
 
 Most client work ships under someone else's name and stays private. These are the ones I can point at.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://play-lh.googleusercontent.com/ZXwsvUJFA7AJNg-sfzDv-O_hxaoDd8NjKU29IVDZSPxG4b8eOSGonm8XNRfyXGZDuRzxvQEU4f6xMQ4twcoqLQ=s128" width="64" height="64" style="border-radius:14px" alt="Cleansai app icon" />
-<br><strong>Cleansai</strong>
-<br>AI-powered duplicate detection and storage cleanup, entirely on-device.
-<br>
-<a href="https://play.google.com/store/apps/details?id=com.digitarchs.cleansai" target="_blank" rel="noopener noreferrer"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></a>&nbsp;&nbsp;<a href="https://cleansai.digitarchs.com/" target="_blank" rel="noopener noreferrer"><img width="28" height="28" title="Website" src="https://raw.githubusercontent.com/ramzanbilal/ramzanbilal/main/assets/icons/globe-black.svg" /></a>
-</td>
-</tr>
-</table>
+<img src="https://play-lh.googleusercontent.com/ZXwsvUJFA7AJNg-sfzDv-O_hxaoDd8NjKU29IVDZSPxG4b8eOSGonm8XNRfyXGZDuRzxvQEU4f6xMQ4twcoqLQ=s128" width="72" height="72" style="border-radius:16px" alt="Cleansai app icon" />
+
+**Cleansai**
+
+AI-powered duplicate detection and storage cleanup, entirely on-device.
+
+<a href="https://play.google.com/store/apps/details?id=com.digitarchs.cleansai" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleplay/ffffff"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://cleansai.digitarchs.com/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramzanbilal/ramzanbilal/main/assets/icons/globe-white.svg"><img width="28" height="28" title="Website" src="https://raw.githubusercontent.com/ramzanbilal/ramzanbilal/main/assets/icons/globe-black.svg" /></picture></a>
 
 ## What I do
 
