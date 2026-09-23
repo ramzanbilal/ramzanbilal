@@ -113,7 +113,7 @@
 ## Resume
 
 <p align="center">
-  <a href="./assets/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Download%20Resume-000000?style=for-the-badge" alt="Download Resume" /></a>
+  <a href="./assets/docs/Bilal-Ramzan-Senior-Mobile-Engineer-Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Download%20Resume-000000?style=for-the-badge" alt="Download Resume" /></a>
 </p>
 
 ## Portfolio: shipped mobile apps
