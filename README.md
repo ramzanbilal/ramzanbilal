@@ -7,7 +7,7 @@
 <p align="center">
   <strong style="font-size:1.1em">Senior <span style="color:#38BDF8">React Native</span> | <span style="color:#38BDF8">Expo</span> | <span style="color:#38BDF8">Flutter</span> | <span style="color:#38BDF8">SwiftUI</span> developer</strong>
   <br>
-  8 years · 100+ apps on the App Store and Google Play
+  8 years · successfully deployed apps on the App Store and Google Play
 </p>
 
 <img src="./assets/banner.svg" width="100%" alt="Bilal Ramzan, Senior Mobile App Developer: web app to native app conversion, vibe-coded app rescue, App Store and Google Play rejection fixes" />
