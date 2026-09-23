@@ -3,14 +3,14 @@
   Replace every YOUR_* placeholder. See LAUNCH-GUIDE.md §0 for the full list.
 -->
 
-<h1 align="center">Bilal · Mobile App Architect</h1>
+<h1 align="center">Bilal Ramzan · Senior Mobile App Developer</h1>
 <p align="center">
   <strong style="font-size:1.1em">Senior <span style="color:#38BDF8">React Native</span> | <span style="color:#38BDF8">Expo</span> | <span style="color:#38BDF8">Flutter</span> | <span style="color:#38BDF8">SwiftUI</span> developer</strong>
   <br>
   8 years · 100+ apps on the App Store and Google Play
 </p>
 
-<img src="./assets/banner.svg" width="100%" alt="Bilal, mobile app architect: web to mobile app conversion, AI and vibe-coded app rescue, App Store and Google Play rejection fixes" />
+<img src="./assets/banner.svg" width="100%" alt="Bilal Ramzan, Senior Mobile App Developer: web app to native app conversion, vibe-coded app rescue, App Store and Google Play rejection fixes" />
 
 ## Tech stack
 
@@ -105,9 +105,11 @@
 ## Publications
 
 <p align="center">
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" title="Medium" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/medium/000000" alt="Medium"/></picture></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/YOUR_SO_ID/YOUR_SO_USERNAME" title="Stack Overflow" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/stackoverflow/000000" alt="Stack Overflow"/></picture></a>
+  <a href="https://medium.com/@ramzanbilal14" title="Medium" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/medium/000000" alt="Medium"/></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/7912296/bilal-ramzan" title="Stack Overflow" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/ffffff"><img width="48" height="48" src="https://cdn.simpleicons.org/stackoverflow/000000" alt="Stack Overflow"/></picture></a>
 </p>
+
+## Resume
 
 <p align="center">
   <a href="./assets/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Download%20Resume-000000?style=for-the-badge" alt="Download Resume" /></a>
@@ -135,6 +137,46 @@ AI-powered duplicate detection and storage cleanup, entirely on-device.
 AI-powered conversation coach. Never get left on read again.
 
 <a href="https://apps.apple.com/us/app/broski-ai-wingman/id6754784915" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img width="28" height="28" title="App Store" src="https://cdn.simpleicons.org/apple/000000" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.broski.app" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleplay/ffffff"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></picture></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="left">
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/1e/8f/611e8fd8-d96f-d2b3-62b8-5401e23ec3a0/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg" width="96" height="96" style="border-radius:20px; vertical-align:middle" alt="A+ Payroll app icon" />&nbsp;&nbsp;<strong style="font-size:1.4em; vertical-align:middle">A+ Payroll</strong>
+
+Payroll management app for small businesses.
+
+<a href="https://apps.apple.com/kw/app/a-payroll/id1533811526" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img width="28" height="28" title="App Store" src="https://cdn.simpleicons.org/apple/000000" /></picture></a>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/bd/51/2fbd5102-29de-1d62-bfc1-b5e7d566aa99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="96" height="96" style="border-radius:20px; vertical-align:middle" alt="VExpo app icon" />&nbsp;&nbsp;<strong style="font-size:1.4em; vertical-align:middle">VExpo</strong>
+
+Host all kinds of events and tradeshows from the palm of your hands.
+
+<a href="https://apps.apple.com/us/app/vexpo/id6480527833" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img width="28" height="28" title="App Store" src="https://cdn.simpleicons.org/apple/000000" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.app.vexpo" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleplay/ffffff"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></picture></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="left">
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/51/a1/1751a158-5c5b-a91f-1ce1-036b73787587/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg" width="96" height="96" style="border-radius:20px; vertical-align:middle" alt="MyHayd App icon" />&nbsp;&nbsp;<strong style="font-size:1.4em; vertical-align:middle">MyHayd</strong>
+
+Islamic period tracking health app, personalized to Muslim women.
+
+<a href="https://apps.apple.com/us/app/myhayd-app/id6739942459" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img width="28" height="28" title="App Store" src="https://cdn.simpleicons.org/apple/000000" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.myhaydapp" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleplay/ffffff"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></picture></a>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ab/a9/76aba965-80ad-dd24-c176-018883949596/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="96" height="96" style="border-radius:20px; vertical-align:middle" alt="Expert Online Training App icon" />&nbsp;&nbsp;<strong style="font-size:1.4em; vertical-align:middle">Expert Online Training</strong>
+
+Expert-led staff training with videos, tracking, and multilingual support.
+
+<a href="https://apps.apple.com/us/app/expert-online-training-app/id1559523276" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img width="28" height="28" title="App Store" src="https://cdn.simpleicons.org/apple/000000" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.expertonlinetraining.app" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleplay/ffffff"><img width="28" height="28" title="Play Store" src="https://cdn.simpleicons.org/googleplay/000000" /></picture></a>
 
 </td>
 </tr>
